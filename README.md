@@ -1,0 +1,1 @@
+This File only works with the Online Retail Dataset (Kaggle), you first have to upload the CVS file. This is made this way incase a company needs to know performance analytics even after there has been some changes to the database.
